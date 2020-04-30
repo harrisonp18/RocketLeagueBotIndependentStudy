@@ -1,4 +1,9 @@
 # RocketLeagueBotIndependentStudy
-how you solved a complex engineering problem by applying principles of engineering, science, and mathematics.
 
-a description of how it meets specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+How you solved a complex engineering problem by applying principles of engineering, science, and mathematics.
+
+This project presented me with the problem of creating a bot that could play the game rocket league. The biggest factor in solving this problem was understanding how the code worked and how the provided RLBot framework interacted with the game through the Psyonix API. This was done by looking at framework provided and figuring out how the code worked to being with. From there is was a matter of deciding what I wanted the bot to be able to do and figuring out how to do it. This included using the RLBot website and the resources it provided such as the wiki, as well as talking to other developers through things such as Discord. I feel that in fields such as engineering, science, and math commuication with others as well as the ability to do independent research are paramount to solving issues and I think I successfully did both of those things in this project.
+
+A description of how it meets specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+
+Due to the fact that this program is simply a bot program for personal use within a video game, there arent too many issues in many of the contexts mentioned in this prompt. That being said, the goal and objective of the project was achieved and no issues in any of those regards occured. The project is based off of open source code and was done as a learning experience for a topic in which I had a personal interest.
