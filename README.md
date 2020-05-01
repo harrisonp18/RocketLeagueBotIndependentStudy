@@ -1,7 +1,6 @@
 # RocketLeagueBotIndependentStudy
 
-# Project Title
-
+This project was done as an independent study. It is a bot program that is able to play the game Rocket League. It was created by me, Harrison Paxton, as a software engineering senior at FGCU. I made it during the Spring 2020 semester. At this point I was fairly knowledgeable of Java but this was my first video game programming experience. While it was done for an independent study, the idea was one I came up with being a fan of the video game Rocket League and seeing other people create bots. It was something I had been wanting to do and I was very excited when my independent study application was approved. This is my last semester of software engineering at FGCU although next year I will be staying and taking a few graduate classes as well as finishing up an entrepreneurship minor. The plan is to graduate in Spring 2021.
 
 ## Demonstration
 
@@ -74,6 +73,7 @@ This project is licensed under the MIT License.
 
 ## History
 
+This project was started in the Spring 2020 semester. Any additions or changes following the semester will be noted here.
 
 ## Key Programming Concepts Utilized
 
