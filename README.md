@@ -24,18 +24,27 @@
     -Make sure pip is included in the installation
     
 2.Make sure you've installed the Java 8 JDK or newer. Here's the Java 8 JDK.
+
 3.Make sure you've set the JAVA_HOME environment variable.
+
 4.Download this repository
+
 5.Double click on run-bot.bat and leave it running. It's supposed to stay open and it's OK if it says something like "75%".
+
 6.Double click on run-gui.bat
+
 7.Click the 'Run' button
+
   -Bot behavior is controlled by src/main/java/rlbotexample/SampleBot.java
+  
   -Bot appearance is controlled by src/main/python/javaExampleAppearance.cfg
 
 ## Built With
 
 -IntelliJ Idea Ultimate
+
 -Java
+
 -RLBot
 
 
@@ -53,6 +62,7 @@ Harrison Paxton
 ## Acknowledgments
 
 RLBot.org
+
 Professor VanSelow
 
 ## History
