@@ -16,9 +16,13 @@
 
 
 1.Make sure you've installed Python 3.6.5 or newer. Here's Python 3.7 64 bit. Some older versions like 3.6.0 will not work.
+
    During installation:
+   
     -Select "Add Python to PATH"
+    
     -Make sure pip is included in the installation
+    
 2.Make sure you've installed the Java 8 JDK or newer. Here's the Java 8 JDK.
 3.Make sure you've set the JAVA_HOME environment variable.
 4.Download this repository
