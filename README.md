@@ -4,6 +4,7 @@ This project was done as an independent study. It is a bot program that is able 
 
 ## Demonstration
 
+![GIF](docs/RLBotGif.mp4) 
 
 ## Documentation
 
