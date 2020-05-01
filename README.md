@@ -35,9 +35,9 @@
 
 7.Click the 'Run' button
 
-  -Bot behavior is controlled by src/main/java/rlbotexample/SampleBot.java
+   -Bot behavior is controlled by src/main/java/rlbotexample/SampleBot.java
   
-  -Bot appearance is controlled by src/main/python/javaExampleAppearance.cfg
+   -Bot appearance is controlled by src/main/python/javaExampleAppearance.cfg
 
 ## Built With
 
