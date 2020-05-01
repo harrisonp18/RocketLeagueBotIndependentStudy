@@ -8,9 +8,15 @@
 
 ## Documentation
 
+[Docs](https://github.com/harrisonp18/RocketLeagueBotIndependentStudy/docs)
 
 ## Diagrams
 
+![RLBotSetup](docs/RLBotSetupSequence.png)
+
+![RLBotJavaBot](docs/RLBotJavaBot.png)
+
+![RLBotAPI](docs/RLBotAPI.png)
 
 ## Getting Started
 
@@ -19,9 +25,9 @@
 
    During installation:
    
-    -Select "Add Python to PATH"
+    *Select "Add Python to PATH"
     
-    -Make sure pip is included in the installation
+    *Make sure pip is included in the installation
     
 2.Make sure you've installed the Java 8 JDK or newer. Here's the Java 8 JDK.
 
@@ -35,17 +41,17 @@
 
 7.Click the 'Run' button
 
-   -Bot behavior is controlled by src/main/java/rlbotexample/SampleBot.java
+   *Bot behavior is controlled by src/main/java/rlbotexample/SampleBot.java
   
-   -Bot appearance is controlled by src/main/python/javaExampleAppearance.cfg
+   *Bot appearance is controlled by src/main/python/javaExampleAppearance.cfg
 
 ## Built With
 
--IntelliJ Idea Ultimate
+*IntelliJ Idea Ultimate
 
--Java
+*Java
 
--RLBot
+*RLBot
 
 
 ## Contributing
@@ -58,12 +64,13 @@ Harrison Paxton
 
 ## License
 
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-RLBot.org
+*RLBot.org
 
-Professor VanSelow
+*Professor VanSelow
 
 ## History
 
