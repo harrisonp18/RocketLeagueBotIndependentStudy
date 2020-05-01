@@ -4,7 +4,7 @@ This project was done as an independent study. It is a bot program that is able 
 
 ## Demonstration
 
-![GIF](docs/RLBotGif.mp4) 
+<iframe src="https://giphy.com/embed/XZynkikIK5HvIwH5Fm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XZynkikIK5HvIwH5Fm">via GIPHY</a></p>
 
 ## Documentation
 
