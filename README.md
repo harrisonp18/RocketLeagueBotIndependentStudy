@@ -8,11 +8,11 @@
 
 ## Documentation
 
-[Docs](https://github.com/harrisonp18/RocketLeagueBotIndependentStudy/docs)
+[Docs](https://github.com/harrisonp18/RocketLeagueBotIndependentStudy/tree/master/docs)
 
 ## Diagrams
 
-![RLBotSetup](docs/RLBotSetupSequence.png)
+![RLBotSetup](docs/RLBotStartupSequence.png)
 
 ![RLBotJavaBot](docs/RLBotJavaBot.png)
 
